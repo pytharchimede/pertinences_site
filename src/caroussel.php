@@ -14,7 +14,7 @@
 
             <div class="carousel-text">
 
-                <h1>Le moyen le plus rapide d'atteindre le succès</h1>
+                <h1 class="great_title" style="font-family:'Dancing Script', cursive; ">Nous cofrabriquons avec vous les compétences opérationnelles dont vous avez besoin</h1>
 
                 <p>
 
@@ -44,7 +44,7 @@
 
             <div class="carousel-text">
 
-                <h1>Votre succès, notre réussite</h1>
+                <h1 class="great_title" style="font-family:'Dancing Script', cursive; ">Nous cofrabriquons avec vous les compétences opérationnelles dont vous avez besoin</h1>
 
                 <p>
 
@@ -74,7 +74,9 @@
 
             <div class="carousel-text">
 
-                <h1>Votre entreprise, notre effort</h1>
+                <h1 class="great_title" style="font-family:'Dancing Script', cursive; ">
+                    Nous cofrabriquons avec vous les compétences opérationnelles dont vous avez besoin
+                </h1>
 
                 <p>
 

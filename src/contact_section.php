@@ -26,7 +26,7 @@
 
                     <h3>Notre Siège Social</h3>
 
-                    <p>123 Rue, New York, USA</p>
+                    <p>Cocody, Abidjan, Côte d'Ivoire</p>
 
                 </div>
 
@@ -44,7 +44,7 @@
 
                     <h3>Appel pour de l'Aide</h3>
 
-                    <p>+012 345 6789</p>
+                    <p>+225 05 46 76 99 55</p>
 
                 </div>
 
@@ -62,7 +62,7 @@
 
                     <h3>Email pour Information</h3>
 
-                    <p>info@example.com</p>
+                    <p>contact@groupe-pertinences.com</p>
 
                 </div>
 

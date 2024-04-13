@@ -20,21 +20,21 @@
 
             <a href="about.php" class="nav-item nav-link">A Propos</a>
 
+            <a href="feature.php" class="nav-item nav-link">Plus-value</a>
+
             <a href="service.php" class="nav-item nav-link">Services</a>
 
-            <a href="feature.php" class="nav-item nav-link">Pourquoi nous ?</a>
+            <a href="advisor.php" class="nav-item nav-link">L'équipe</a>
 
-            <a href="advisor.php" class="nav-item nav-link">Notre équipe</a>
-
-            <a href="review.php" class="nav-item nav-link">Evaluations</a>
+            <!-- <a href="review.php" class="nav-item nav-link">Evaluations</a> -->
 
             <div class="nav-item dropdown">
 
-                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Coaching</a>
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Cas clients</a>
 
                 <div class="dropdown-menu">
 
-                    <a href="blog.php" class="dropdown-item">Nos formations</a>
+                    <a href="blog.php" class="dropdown-item">Nos interventions</a>
 
                     <!-- <a href="single.php" class="dropdown-item">Single Page</a> -->
 

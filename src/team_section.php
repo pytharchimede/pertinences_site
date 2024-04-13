@@ -6,7 +6,7 @@
 
         <p>Rencontrez Nos Conseillers</p>
 
-        <h2>Notre Équipe de Consultation Professionnelle</h2>
+        <h2>Quelques consultants</h2>
 
     </div>
 

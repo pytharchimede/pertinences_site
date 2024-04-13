@@ -82,4 +82,6 @@
 
 <link href="css/style.css" rel="stylesheet">
 
+<link href='https://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>
+
 </head>

@@ -94,6 +94,15 @@
 
         <!-- Team End -->
 
+
+        <!-- Customers Start -->
+
+        <?php 
+            // include('src/customers_section.php'); 
+        ?>
+
+        <!-- Customers End -->
+
         
 
         
