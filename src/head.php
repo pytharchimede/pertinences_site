@@ -52,7 +52,7 @@
 
 <meta content="Pertinences CI, A votre disposition pour accompagner vos succès !" name="description">
 
-
+<meta name="robots" content="noindex">
 
 <!-- Favicon -->
 
@@ -75,8 +75,6 @@
 <link href="lib/animate/animate.min.css" rel="stylesheet">
 
 <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-
-
 
 <!-- Template Stylesheet -->
 
