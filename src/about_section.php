@@ -28,9 +28,9 @@
 
             <div class="section-header">
 
-                <p>En savoir plus sur nous</p>
+                <p>"Cofabriquer" les compétences indispensables pour la réalisation de vos AMBITIONS</p>
 
-                <h2>25 ans d'expérience</h2>
+                <h2>Notre mission</h2>
 
             </div>
 
@@ -38,13 +38,14 @@
 
                 <p>
 
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                Vous aider à franchir un palier, grâce à la structuration collaborative de vos domaines de résultats et l'acquisition 
+                des compétences clés, pour devenir une organisation humainement enrichissante et pérenne
 
                 </p>
 
                 <p>
 
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. Aenean consectetur convallis porttitor. Aliquam interdum at lacus non blandit.
+                Pour faciliter l'atteinte des objectifs, nos intervenants intègrent rapidement les spécificités de votre écosystème.
 
                 </p>
 
